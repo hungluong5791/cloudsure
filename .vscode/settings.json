@@ -1,0 +1,11 @@
+{
+  "terminal.integrated.defaultProfile.windows": "powershell",
+  "json.schemas": [
+        {
+            "fileMatch": [
+                "manifest.json"
+            ],
+            "url": "https://json.schemastore.org/chrome-manifest"
+        }
+    ]
+}
